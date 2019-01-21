@@ -306,9 +306,9 @@
 
 [10-2a]: ./week10/day2_big_data_intro/intro_to_big_data-lesson
 [10-2c]: ./week10/day2_big_data_intro/intro_to_spark
-[10-3b]: ./week10/day2_big_data_intro/spark_lab
+[10-3b]: ./week10/day3_networks/networks_lab
 
-[10-4a]: ./week10/day4_aws_and_hadoop/AWS_intro/
+[10-4a]: ./week10/day4_neural_networks/neural_network_lab1
 [10-4d]: ./week10/day4_aws_and_hadoop/hadoop-big-data-lab/
 
 [10-5a]: ./week10/day5_emr_and_hive/Hive-lab
