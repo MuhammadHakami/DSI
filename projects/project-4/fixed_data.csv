@@ -1,0 +1,448 @@
+location,company,job_title,salary
+"Dallas, TX",Quisitive,O365 Architect,120500.0
+"Dallas, TX",Givelify,Senior Product Manager,122500.0
+"Dallas, TX 75246 (Northeast Dallas area)",Baylor Scott & White Health,Research Post Doctorate Fellow - GI Cancer (Dallas),47500.0
+"Dallas, TX",CBRE,Senior Product Manager,124000.0
+"Irving, TX","Kleinfelder, Inc.",Construction Materials Testing Technician,35000.0
+"Dallas, TX","JDA Software Group, Inc.",Senior Optimization Engineer,133500.0
+"Dallas, TX",Door - Real Estate | Mortgage | Title,UX Designer,94500.0
+"Dallas, TX",M Science,SOFTWARE ENGINEER,121000.0
+"Dallas, TX",M Science,UI ENGINEER,106500.0
+"Dallas, TX",Gurutech Solutions,Sr Software Engineer,116000.0
+"Dallas, TX",Nuanza inc,Jr Java/ J2ee Developer :: OPT / CPT / GC/ USC / H4 / L2,126000.0
+"Addison, TX 75001","Authentix, Inc.",Senior Systems Engineer,110000.0
+"Aurora, CO",University of Colorado,Senior Professional Research Assistant,65000.0
+"Boulder, CO",UCAR,Meeting Planner II,50500.0
+"Denver, CO 80221",Transamerica,Data Scientist,106000.0
+"Aurora, CO",University of Colorado,Professional Research Asst,42500.0
+"Denver, CO",Aegon,Internship - Data Science (Summer 2019,105000.0
+"Thornton, CO",Avaya Corporation,Data Scientist,109000.0
+"Boulder, CO 80305 (Central Boulder area)",US Department of Commerce,"Student Trainee (Physical Scientist), ZP-1399-I",38690.5
+"Buckley AFB, CO",US Department of the Air Force,Operations Research Analyst,113620.5
+"Lakewood, CO",Weston Solutions,Munitions Response Project Engineer or Scientist,57500.0
+"Boulder, CO 80303 (Southeast Boulder area)",University of Colorado Boulder,Professional Assistant,27500.0
+"Boulder, CO",UCAR,JCSDA Project Scientist I/II - ESRL Liaison,95500.0
+"Boulder, CO 80305 (Central Boulder area)",US Department of Commerce,"Student Trainee (Engineering), ZP-0899-I",38690.5
+"Boulder, CO",UCAR,JCSDA Software Engineer II - PyOOPS,82500.0
+"Boulder, CO 80303 (Southeast Boulder area)",University of Colorado Boulder,Mechanical Engineer,70000.0
+"Boulder, CO",Ball Aerospace,Machinist Prototype Sr - (664396),57000.0
+"Boulder, CO",Ball Aerospace,Engineer I-Mechanical (664853),80000.0
+"Westminster, CO",Ball Aerospace,Technician II-Harness & Wiring (HPC) (665054),53500.0
+"Boulder, CO 80303 (Southeast Boulder area)",University of Colorado Boulder,PostDoctoral Scientist in Aquatic Ecology,52000.0
+"Boulder, CO",UCAR,JCSDA Software Engineer II - Obs Storage,82500.0
+"Boulder, CO",Ball Aerospace,Senior Engineer-Space Systems Simulators (663331),108500.0
+"Boulder, CO",Ball Aerospace,Engineer Senior-Manufacturing (663882),103000.0
+"Denver, CO 80235",SRK Consulting,Senior Accountant,72500.0
+"Denver, CO 80237 (Southeastern Denver area)",GEI Consultants Inc,Software Architect,109500.0
+"Golden, CO",xentity corporation,Geospatial Architect,125500.0
+"Denver, CO",DataRobot,"Senior Front End Engineer, UI/UX team",119000.0
+"Golden, CO",xentity corporation,Government Services Solution Architect,149500.0
+"Boulder, CO",Holland & Hart LLP,DevOps Engineer,117000.0
+"Denver, CO",xentity corporation,Independent Consultant - Government Solution Architect,152000.0
+"San Francisco, CA",Blue Owl,Data Scientist - Insurance,275000.0
+"San Francisco, CA",Blue Owl,Senior Data Analyst,120000.0
+"San Francisco, CA",Bolt,Data Scientist,130000.0
+"San Francisco, CA 94133 (Russian Hill area)","Williams-Sonoma, Inc.","Data Scientist, Digital",132500.0
+"San Bruno, CA 94066",Walmart eCommerce,Data Scientist Intern - Summer 2019,121500.0
+"San Francisco, CA 94105 (Financial District area)",Salesforce,Data Scientist - Quip,127000.0
+"San Francisco, CA 94103 (South Of Market area)",Twitter,Product Data Scientist,153500.0
+"San Francisco, CA",University of California San Francisco Medical Cen...,Data Scientist,147500.0
+"San Francisco, CA",HotelTonight,Data Scientist,107500.0
+"San Francisco, CA",Kelvin Inc.,Data Scientist - Dashboards,154000.0
+"San Francisco, CA",Opendoor,Data Scientist (Analytics),132500.0
+"San Francisco, CA 94107 (South Of Market area)",BitTorrent Inc.,Data Scientist,122500.0
+"San Francisco, CA",Slack,Data Science Manager - Product Analytics,135000.0
+"San Francisco, CA 94114 (Castro-Upper Market area)",Lyric,Staff Data Scientist,141000.0
+"San Francisco, CA 94103 (South Of Market area)",Square,"Data Scientist, Point of Sale & Customers",137000.0
+"San Francisco, CA",Kelvin Inc.,Data Scientist - Statistician,137500.0
+"San Francisco, CA",Plaid,Data Scientist,118000.0
+"San Francisco, CA 94105 (Financial District area)",Google,"Data Scientist, Engineering",113000.0
+"San Francisco, CA 94103 (South Of Market area)",Twitter,Data Scientist,146000.0
+"San Francisco, CA",Morgan Lewis,Data Scientist - eData (ML Rex),122500.0
+"San Francisco, CA 94105 (Financial District area)",Salesforce,Summer 2019 Intern - Data Science,120000.0
+"San Francisco, CA 94105 (Financial District area)",Uber,"Data Scientist, Customer Conversations",152000.0
+"San Francisco, CA 94105 (Financial District area)",Twitter,2019 PhD Data Scientist Internship - Risk,154500.0
+"San Francisco, CA 94103 (South Of Market area)",Scoot Networks,"Data Engineer, Data Science",147500.0
+"San Francisco, CA 94103 (South Of Market area)",thredUP Inc,2019 PhD Data Scientist Internship - Marketplace,155500.0
+"San Francisco, CA 94103 (South Of Market area)",Zynga,2019 PhD Data Scientist Internship - Consumer,150000.0
+"San Francisco, CA",Calico,"Data Scientist 4, Words with Friends",142000.0
+"South San Francisco, CA 94080",Electronic Arts,Data Scientist - Time Series Modeling,143000.0
+"Redwood City, CA 94065",Adobe,Data Scientist,108500.0
+"Emeryville, CA",Visa,Data Scientist,126500.0
+"Foster City, CA",The Climate Corporation,Data Scientist / Sr. Data Scientist,115000.0
+"San Francisco, CA",Walmart eCommerce,Data Scientist / Data Engineer,161000.0
+"San Francisco, CA",EMD,"Data Scientist - Principal - San Francisco, CA",135000.0
+"Berkeley, CA",Glu Mobile,Career Advisor Job - School of Information,60050.0
+"San Francisco, CA 94111 (Financial District area)",2K Games,"Manager, Data Science",139500.0
+"Novato, CA",Ultragenyx Pharmaceutical,Data Scientist,140000.0
+"San Mateo, CA 94404",Genentech,"Cybersecurity Data Scientist, Cyber Risk Analytics -San Mate...",165500.0
+"San Francisco, CA",Pacific Community Ventures,Actuarial Pricing Analyst,135000.0
+"Berkeley, CA",Lawrence Berkeley National Laboratory,Lecturer - Sutardja Center for Entrepreneurship & Technology,110100.0
+"San Francisco, CA 94105 (Financial District area)",Mission Bio,"Software Engineer, Imaging",139500.0
+"San Francisco, CA",Chan Zuckerberg Initiative,Senior iOS Engineer,225000.0
+"San Carlos, CA 94070",Adobe,"Senior Data Science Manager, Marketing",122500.0
+"San Francisco, CA",Walmart Stores,Senior Product Manager,128000.0
+"San Francisco, CA",Uber,Senior Software Engineer,135000.0
+"San Francisco, CA",Burns & McDonnell,Senior Business Analyst - Insurance,110000.0
+"Berkeley, CA","Williams-Sonoma, Inc.","Assistant Project Scientist, Step III- VI - Rokhsar Lab - Mo...",68950.0
+"San Francisco, CA",Chime,Senior iOS Engineer,225000.0
+"San Francisco, CA",Cytokinetics,Front End Developer,126000.0
+"San Francisco, CA",Acumen LLC,"Senior Software Engineer, Data Infrastructure",147500.0
+"Pittsburgh, PA",University of Pittsburgh,Big Data Architect,137500.0
+"Pittsburgh, PA",Petuum,Big Data Architect,137500.0
+"Pittsburgh, PA",Petuum,Senior Software Engineer - Machine Learning - Workflow,115000.0
+"Pittsburgh, PA",Petuum,"Lead Systems Engineer, Performance & Data Analysis",101000.0
+"Pittsburgh, PA",Neya Systems LLC,Senior Software Engineer - Machine Learning,128000.0
+"Pittsburgh, PA",Petuum,Software Engineering Manager - Back End - Workflow,143500.0
+"Warrendale, PA 15086",Neya Systems,Senior Software Engineer - Autonomy,111000.0
+"Pittsburgh, PA",Petuum,Senior Staff Software Engineer - Natural Language Processing,118000.0
+"Warrendale, PA",Petuum,Senior Software Engineer - Autonomy,111000.0
+"Pittsburgh, PA",Petuum,Senior Software Engineer - Natural Language Processing - Vis...,119500.0
+"Pittsburgh, PA",Petuum,Senior Software Engineer - Machine Learning - Infrastructure,114500.0
+"Pittsburgh, PA",Invent Analytics,Senior Software Engineer - Natural Language Processing - Vis...,119500.0
+"Pittsburgh, PA",Argo AI,Senior Software Engineer - Machine Learning - Infrastructure,114500.0
+"Miami, FL",Boxy Charm,Coordinator Statistical Research I,42500.0
+"Coral Gables, FL",Q6Cyber,Temporary Sr. Research Analyst,72000.0
+"Coral Gables, FL",University of Miami,Senior Research Associate 1,46000.0
+"Coral Gables, FL","Magic Leap, Inc.",Temporary Sr. Research Analyst,72000.0
+"Fort Lauderdale, FL",University of Miami,Solution Advisor | Professional Services Consultant,80000.0
+"Fort Lauderdale, FL",Streamline Defense,Solution Advisor | Professional Services Consultant,80000.0
+"Fort Lauderdale, FL",Biorasi,Solution Advisor | Professional Services Consultant,80000.0
+"Miami, FL 33149",Chewy,Postdoctoral Researcher - Atmospheric Chemistry,48500.0
+"Doral, FL 33172",Pandera Systems,Operations Research Systems Analyst (ORSA),75000.0
+"Miami, FL",Wyzoo,Senior Sererless API Engineer - Based in Fort Lauderdale,95500.0
+"Fort Lauderdale, FL",Skyscanner,Senior Serverless API Engineer,93000.0
+"Miami, FL 33149",Univers,Postdoctoral Researcher - Atmospheric Chemistry,48500.0
+"Doral, FL 33172",Univers,Operations Research Systems Analyst (ORSA),75000.0
+"Fort Lauderdale, FL",LMS,Senior Serverless API Engineer,93000.0
+"Miami, FL",Skyscanner,Senior Sererless API Engineer - Based in Fort Lauderdale,95500.0
+"Fort Lauderdale, FL",Pandera Systems,Senior Serverless API Engineer,93000.0
+"Miami, FL",Pandera Systems,Senior Sererless API Engineer - Based in Fort Lauderdale,95500.0
+"Fort Lauderdale, FL",Wyzoo,Senior Serverless API Engineer,93000.0
+"Miami, FL 33149",Skyscanner,Postdoctoral Researcher - Atmospheric Chemistry,48500.0
+"Fort Lauderdale, FL",UHealth,Solution Advisor | Professional Services Consultant,80000.0
+"Chicago, IL 60603 (Loop area)",devwrx,Actuarial Data Scientist,160000.0
+"Chicago, IL 60603 (Loop area)",TM Floyd & Company,Actuarial Data Scientist,160000.0
+"Chicago, IL",Life Work Search,Machine Learning - Feature Engineer - GPShopper,81000.0
+"Melrose Park, IL",NORC at the University of Chicago,Data Scientist,89000.0
+"Schaumburg, IL 60173",Wolverine Trading,Associate Data Scientist,108000.0
+"Palos Hills, IL",Kraft Heinz Company,Senior Research Analyst,51025.0
+"Chicago, IL",Rush University Medical Center,Data Scientist / Manager Advanced Analytics,134500.0
+"Chicago, IL",Mintel,Front-End Software Developer,97500.0
+"Chicago, IL",Kraft Heinz Company,Full-Stack Engineer,101000.0
+"Chicago, IL",Mathematica Policy Research,"Financial Analyst, Research Affairs",49000.0
+"Chicago, IL 60607 (Near West Side area)",University of Chicago,"Sr. Staff Software Engineer, Backend (Multiple levels)",138000.0
+"Chicago, IL 60607 (Near West Side area)",The University of Chicago,"Sr. Staff Software Engineer, Backend (Multiple levels)",138000.0
+"Chicago, IL 60606 (Loop area)",Shirley Ryan Ability Lab,Cloud Architect,147000.0
+"Chicago, IL",JUUL Labs,Staff Electrical Engineer,99500.0
+"Chicago, IL 60611 (Near North Side area)",Rush University Medical Center,"Occupational Therapist - Neuro Arms + Hands Therapist, Part-...",99000.0
+"Itasca, IL 60143",Hireology,Data Scientist,100000.0
+"Chicago, IL 60661 (Near West Side area)",Drivin,Client Services ( Jr. Data Analysis),35000.0
+"Chicago, IL 60631 (Norwood Park area)",Event Network,Data Scientist,67500.0
+"Chicago, IL 60601 (Loop area)",Pandera Systems,Research Analyst - Private Equity,85000.0
+"Chicago, IL 60601 (Loop area)",Bartesian,Research Analyst-Hedge Funds,85000.0
+"Chicago, IL",Marquette Associates Inc,Part-time Data Science Instructor,103000.0
+"Chicago, IL",Griffith Foods,Quantitative Analyst - Marketing (Adwords/Social Media),50000.0
+"Chicago, IL 60607 (Near West Side area)",Tempus,Data Analyst / Scientist,104000.0
+"Chicago, IL 60601 (Loop area)",Trunk Club,Research Analyst-Hedge Funds,85000.0
+"Chicago, IL",Tempus,Machine Learning / NLP Data Scientist,111500.0
+"Chicago, IL",Aki Technologies,Customer Facing Data Scientist,140000.0
+"Chicago, IL 60654 (Loop area)",Centric Digital,Data Scientist II,121000.0
+"Chicago, IL 60607 (Near West Side area)",Accel Entertainment Gaming,Data Analyst / Scientist,104000.0
+"Chicago, IL 60611 (Near North Side area)",NCSA - Next College Student Athlete,Media Research Analyst,45000.0
+"Chicago, IL",Rangam Consultants Inc,Customer Facing Data Scientist - Telecom,142500.0
+"Chicago, IL",Tempus,"Software Architect, Full Stack",100500.0
+"Chicago, IL",Lumere,AWS DevOps Engineer,114000.0
+"Chicago, IL 60640 (Uptown area)",Bodycote,Partner Integration Engineering Lead,131000.0
+"Chicago, IL",Tempus,DevOps Engineer,114000.0
+"Melrose Park, IL 60160",Enterprise Peak,Safety Manager,67500.0
+"Chicago, IL",BioStaff Solutions,"Software Engineering Manager, Commerce",137000.0
+"Chicago, IL",Enterprise Peak,Lead Software Engineer - Location Intelligence,134000.0
+"Chicago, IL",Lumere,Senior Scala Developer - Cloud Computing,136000.0
+"Chicago, IL 60606 (Loop area)",Bodycote,Senior Software Engineer - Platform Team,123500.0
+"Atlanta, GA 30328",Arby's,Procurement Data Scientist & Fraud Analyst,111500.0
+"Atlanta, GA",Centers for Disease Control and Prevention,Data Scientist - Master's Entry Level Consultant - Atlanta,122500.0
+"Atlanta, GA 30338",Digitas,"Associate Data Scientist, Advanced Analytics",97500.0
+"Atlanta, GA",Equifax,Health Scientist,105376.0
+"Atlanta, GA",Honeywell,Data Scientist,106000.0
+"Atlanta, GA 30309 (Midtown area)",Arby's,Data Scientist,91500.0
+"Duluth, GA",Siemens,Lifetime Research Analyst,40000.0
+"Atlanta, GA",Alation Inc.,Applied Data Scientist - Delivery Architect,126500.0
+"Atlanta, GA",Direct Client,Junior Data Scientist,70000.0
+"Norcross, GA","HydroGeoLogic, Inc",Business Research Analyst - Entry Level,31000.0
+"Atlanta, GA 30309 (Midtown area)",Quasar Analysisis,Operations Research Analyst 11754376,82500.0
+"Atlanta, GA 30309 (Midtown area)",Moxie,Operations Research Analyst 11754376,82500.0
+"Atlanta, GA",Clinical Thinking,"Front End Engineer, Connect",97500.0
+"Roswell, GA",Mastech Digital,Software Engineer,77500.0
+"Roswell, GA",Loyal,Software Engineer,77500.0
+"Roswell, GA",Emory University,Software Engineer,77500.0
+"Roswell, GA",Jim Ellis Automotive Group,Software Engineer,77500.0
+"Roswell, GA","Thermo Pac, LLC",Software Engineer,77500.0
+"Roswell, GA",Groupon,Software Engineer,77500.0
+"Seattle, WA",EagleView Technologies,"Director, Linguistics & Data Analysis",1000000.0
+"Seattle, WA",Groupon,"Data Scientist, Distribution Insights",113750.0
+"Seattle, WA",University of Washington,"Data Scientist, Distribution Insights",113750.0
+"Seattle, WA",Microsoft,"Data Scientist, Distribution Insights",113750.0
+"Seattle, WA",Microsoft,Research & Policy Analyst,65000.0
+"Seattle, WA 98168",Meso Scale Diagnostics,Social Research Scientist - Senior,113796.0
+"Auburn, WA 98092",Zillow Group,Quantitative Fisheries Scientist,72552.0
+"Auburn, WA 98092",Microsoft,Lead Fisheries Habitat Scientist,92764.0
+"Auburn, WA 98092",Fred Hutchinson Cancer Research Center,Lead Fisheries Habitat Scientist,92764.0
+"Seattle, WA",SystImmune,Senior Research Analyst,63061.5
+"Seattle, WA",BOEING,Software Development Manager - AWS CloudWatch,158500.0
+"Seattle, WA 98104 (First Hill area)",Groupon,Senior Java Engineer,131000.0
+"Bellevue, WA 98008 (Crossroads area)",Inspur USA Inc.,Data Scientist,80000.0
+"Redmond, WA",Arzeda,Associate Scientist,70000.0
+"Seattle, WA",Allen Institute,Staff Machine Learning Engineer (NLP),225000.0
+"Seattle, WA 98121 (Belltown area)",TINYpulse,Biostatistician,90000.0
+"Seattle, WA",Bloodworks Northwest,Senior Computational Linguist,200000.0
+"Seattle, WA",G2 Web Services,019 Data/ETL Engineer III,120000.0
+"Redmond, WA",Indeed,UI/UX Developer,115000.0
+"Seattle, WA",Indeed,Senior Backend Engineer - Distributed Systems,190000.0
+"Houston, TX",C&J Energy Services,Staff Scientist,50000.0
+"Houston, TX 77030 (Medical area)",HNTB,Research Scientist - Leukemia,66500.0
+"Houston, TX 77030 (Medical area)",Houston Methodist,Institute Associate Scientist I - In-Vitro Pharmacology,38000.0
+"Houston, TX 77030 (Medical area)",Houston Methodist,Research Scientist- Artificial Intelligence,59850.0
+"Houston, TX 77030 (Medical area)",Concho,Associate Scientist IIâ€“ In Vivo Pharmacology,67000.0
+"Houston, TX",University of Houston,Quality Assurance Analyst (Research),45984.0
+"Houston, TX 77030 (Medical area)",UTMB,Institute Associate Scientist I - In-Vitro Pharmacology,38000.0
+"Houston, TX",Baylor College of Medicine,Research Associate,65000.0
+"Clear Lake City, TX",Houston Methodist,"Medical Lab Scientist, Lab Services - Clear Lake Campus - 62...",67000.0
+"Houston, TX",NeoGenomics Laboratories,Application Analyst II,75000.0
+"Houston, TX 77030 (Medical area)",Macquarie Group Limited,"Research Scientist, Hepatobiliary & Pancreatic Cancers - Qua...",66500.0
+"Houston, TX 77030 (Medical area)",Hewlett Packard Enterprise,Research Scientist - Leukemia,66500.0
+"Houston, TX",Houston Methodist,Quality Assurance Analyst (Research),45984.0
+"Houston, TX",Tessella,Application Analyst II,75000.0
+"Houston, TX",Burns & McDonnell,Research Associate,65000.0
+"Houston, TX 77030 (Medical area)",The Adecco Group,Senior Research Scientist - In Vivo & Flow Cytometry,74000.0
+"Houston, TX 77030 (Medical area)",Hewlett Packard Enterprise,Institute Senior Research Scientist - Translational Biomarke...,140000.0
+"Houston, TX 77030 (Medical area)",NeoGenomics Laboratories,Institute Senior Research Scientist - Translational Biomarke...,140000.0
+"Houston, TX 77030 (Medical area)",Baylor College of Medicine,Clinical Research Program Coordinator (Regulatory Submission...,63500.0
+"Houston, TX",NeoGenomics Laboratories,Flow Cytometry Specialist II,83329.0
+"Houston, TX 77030 (Medical area)",Accenture,Clinical Research Program Coordinator (Regulatory Submission...,63500.0
+"Houston, TX","Collaborative Clinical Research Solutions, Inc.",SEO Data Analyst,80000.0
+"Houston, TX",NanoString,Drilling Data Engineer,115000.0
+"Houston, TX",Xtreme Lashes,Drilling Data Engineer,115000.0
+"Spring, TX","Collaborative Clinical Research Solutions, Inc.",IT - UX Designer,88500.0
+"Houston, TX 77073",Xtreme Lashes,Mechanical Engineer,82000.0
+"Houston, TX 77056 (Galleria-Uptown area)",Arundo Analytics,Machine Learning Software Developer,93000.0
+"Houston, TX",Alchemy Software Solutions,Front-End Developer (React),113500.0
+"Houston, TX",Gulf Advanced Control Systems Est,Healthcare Systems Analyst and Developer - Clinical Research,97500.0
+"Houston, TX",General Assembly,DevOps Engineer,102000.0
+"Houston, TX",Arundo Analytics,Front-End Developer (React),113500.0
+"Houston, TX 77073",Expero,Mechanical Engineer,82000.0
+"Houston, TX",Abaco Drilling Technologies,DevOps Engineer,102000.0
+"Portland, OR",Oregon Health & Science University,Clinical Research Coordinator,50800.0
+"Portland, OR",Columbia Sportswear,Clinical Research Coordinator,50800.0
+"Portland, OR",Providence Health & Services,Clinical Research Coordinator,50800.0
+"Portland, OR",First Technology Federal Credit Union,Post-Award Analyst (Research Accounts Receivable and Collect...,52825.0
+"Portland, OR",Schrödinger,Assay Researcher (Sr. Research Assistant),44551.0
+"Portland, OR",Vacasa,Data Scientist - Machine Learning,155000.0
+"Portland, OR","Oregon Health Authority, Public Health Division",Data Scientist - Machine Learning,155000.0
+"Portland, OR",Phylos Bioscience,Quantitative Research Scientist / Data Scientist,350000.0
+"Portland, OR",M Science,Senior Research Analyst - Alternatives,132500.0
+"Portland, OR 97232 (Kerns area)",Insignia Health,Director of Grants and Corporate Giving,60000.0
+"Portland, OR 97232 (Kerns area)",Voxtel,Director of Grants and Corporate Giving,60000.0
+"Portland, OR","Kyocera International, Inc.","Software Engineer, Full Stack (Portland)",116500.0
+"Portland, OR 97258 (Downtown area)",Sellgo - Marketing team,Senior Product Manager / Product Manager,110500.0
+"Portland, OR 97258 (Downtown area)",Proliance LLC,Senior Product Manager / Product Manager,110500.0
+"Portland, OR 97258 (Downtown area)",Airbnb,Senior Product Manager / Product Manager,110500.0
+"Austin, TX",City of Austin,Remote Sensing Data Scientist Associate,74750.0
+"Austin, TX",City of Austin,Operations Research Analyst (Data Scientist),82966.0
+"Austin, TX",NOKIA,Research Engineering/ Scientist Associate IV (4208),52680.0
+"Austin, TX",CACI,Research Engineering/ Scientist Assistant,23184.0
+"Austin, TX 78752",Qualcomm,Strategic Communications Coordinator,50000.0
+"Austin, TX 78759 (Arboretum area)",CDK Global,Multi-Int Data Scientist,107500.0
+"Austin, TX",University of Texas at Austin,"Research Engineering Scientist Associate II, Department of N...",50000.0
+"Austin, TX",CACI,Risk Data Scientist,105500.0
+"Austin, TX",Google,lead data science immersive instructor,117500.0
+"Austin, TX 78759 (Arboretum area)",HDR,Data Scientist,130000.0
+"Austin, TX",General Electric,Research Engineering/ Scientist Assistant,23184.0
+"Austin, TX 78759 (Arboretum area)",Forbius,Multi-Int Data Scientist,107500.0
+"Austin, TX",CACI,"Research Engineering Scientist Associate II, Department of N...",50000.0
+"Austin, TX",Clinical Pathology Laboratories,Information Systems Engineering Specialist (Engineering Scie...,105998.0
+"Austin, TX",Wunderman,Digital Signal Processing Scientist,105998.0
+"Austin, TX",The Adecco Group,Information Systems Engineering Specialist (Engineering Scie...,105998.0
+"Austin, TX",University of Texas at Austin,"Research Engineering Scientist Associate III, Department of...",55000.0
+"Austin, TX",DELL,R&D Hardware and Electrical Engineering Scientist,105998.0
+"Austin, TX",Siemens,Information Systems Engineering Specialist (Engineering Scie...,105998.0
+"Austin, TX",Galvanize,Senior Unix Administrator,69777.0
+"Austin, TX",Revionics,R&D Hardware and Electrical Engineering Scientist,105998.0
+"Austin, TX",CACI,Senior Unix Systems Administrator,69777.0
+"Austin, TX",Indeed,Principle NLP Scientist,150000.0
+"Austin, TX 78731",Anaconda,Backend Software Engineer - SMB Platform,123000.0
+"Austin, TX 78731",Anaconda,Sr. Software Engineer - Database Scalability,130000.0
+"Austin, TX",Indeed,Senior Software Engineer – Machine Learning,126000.0
+"Austin, TX 78759 (Arboretum area)",Indeed,Senior Software Engineer - Financial Services,135000.0
+"Austin, TX 78759 (Arboretum area)",Pluto7,Senior Server Software Engineer - Machine Vision,129000.0
+"Austin, TX 78731",SparkCognition,Backend Software Engineer - SMB Platform,123000.0
+"Austin, TX 78731",Duo Security,Sr. Software Engineer - Database Scalability,130000.0
+"Austin, TX",Anaconda,Senior Software Engineer – Machine Learning,126000.0
+"Austin, TX 78759 (Arboretum area)",Anaconda,Senior Software Engineer - Financial Services,135000.0
+"Austin, TX 78759 (Arboretum area)",Anaconda,Senior Server Software Engineer - Machine Vision,129000.0
+"Austin, TX 78759 (Arboretum area)",Anaconda,Senior Software Engineer,127500.0
+"Austin, TX",Anaconda,Sr. Product Manager,123000.0
+"Austin, TX 78759 (Arboretum area)",Pluto7,Senior Software Engineer - Financial Services,135000.0
+"Phoenix, AZ 85007 (Central City area)",Caris Life Sciences,ENVIRONMENTAL SCIENTIST 1-2,40000.0
+"Phoenix, AZ",State of Arizona,COMPUTER SCIENTIST,98797.0
+"Phoenix, AZ 85007 (Central City area)",Stantec,ENVIRONMENTAL SCIENTIST 1-2,40000.0
+"Glendale, AZ",W. L. Gore & Associates,Planning and Research Analyst Sr,68648.5
+"Phoenix, AZ",Exponent,COMPUTER SCIENTIST,98797.0
+"Phoenix, AZ",Sonora Quest Laboratories,OPERATIONS RESEARCH,98797.0
+"Phoenix, AZ",Ports America,Planning and Research Analyst (South Mountain Community Coll...,59960.0
+"Phoenix, AZ",KPMG,Planning Research Analyst (Open until filled),59960.0
+"Phoenix, AZ",BOEING,OPERATIONS RESEARCH,98797.0
+"Phoenix, AZ 85007 (Central City area)",Carvana,Jr. Statistical Analyst III (Job 2288),45030.0
+"Scottsdale, AZ",Cascade Financial Services,SOFTWARE ENGINEER,87500.0
+"Phoenix, AZ",Fusion Global Solutions LLC,Backend Engineer,117500.0
+"Scottsdale, AZ",Techfield,Senior Software Engineer,114500.0
+"Scottsdale, AZ",REPAY,SOFTWARE ENGINEER,87500.0
+"Tempe, AZ",Fusion Global Solutions LLC,Senior Data Science Engineer,125000.0
+"Phoenix, AZ",Techfield,Backend Engineer,117500.0
+"Scottsdale, AZ",SYSTEMS ONCOLOGY,Senior Software Engineer,114500.0
+"Scottsdale, AZ","WTI, Inc.",SOFTWARE ENGINEER,87500.0
+"Tempe, AZ",SYSTEMS ONCOLOGY,Senior Data Science Engineer,125000.0
+"Phoenix, AZ",MedMen,Backend Engineer,117500.0
+"Scottsdale, AZ",Cascade Financial Services,Senior Software Engineer,114500.0
+"Tempe, AZ",Techfield,Senior Data Science Engineer,125000.0
+"Phoenix, AZ",REPAY,Backend Engineer,117500.0
+"Scottsdale, AZ",MedMen,Senior Software Engineer,114500.0
+"Scottsdale, AZ",Fusion Global Solutions LLC,SOFTWARE ENGINEER,87500.0
+"Scottsdale, AZ",REPAY,Senior Software Engineer,114500.0
+"Los Angeles, CA",Beyond Limits,Research Lab Specialist,60239.0
+"Los Angeles, CA",Ipsos North America,Senior Business Analyst,80000.0
+"Los Angeles, CA 90021",BCG Digital Ventures,Data Science Manager,164500.0
+"Culver City, CA 90232",USC,"Data Scientist, Planning Process Integration",139000.0
+"Brea, CA",Providence Health & Services,Marketing Data Scientist,104000.0
+"Santa Monica, CA 90407",JUUL Labs,Financial Analyst,75000.0
+"Los Angeles, CA",California State University,Senior Business Analyst,80000.0
+"Los Angeles, CA",The Aerospace Corporation,"Software Engineer, Research Application Development",84642.0
+"Los Angeles, CA 90049","S.F.EXPRESS CO.,LTD.",Software Architect,139120.5
+"El Segundo, CA 90245",Children's Hospital Los Angeles,"Nutrition, Labeling & Regulatory Specialist",61500.0
+"Los Angeles, CA",BCG Digital Ventures,"Software Engineer, Research Application Development",84642.0
+"El Segundo, CA",Providence Health & Services,Mid-Level Systems Engineer - Ground Systems,120000.0
+"Los Angeles, CA",BOEING,Senior C++ Software Engineer,130500.0
+"El Segundo, CA 90245",The Aerospace Corporation,Signal Processing Geolocation Engineer,129000.0
+"Santa Monica, CA 90407",Burns & McDonnell,Clinical Trials Supervisor - Oncology,91000.0
+"El Segundo, CA 90245",Burns & McDonnell,Embedded Security Engineer,113000.0
+"Seal Beach, CA 90740",The Aerospace Corporation,Windows Systems Engineer Admin - Experienced,90500.0
+"Pasadena, CA 91101",The Aerospace Corporation,Data Scientist (entry level),80000.0
+"Los Angeles, CA 90028","Ample Insight, Inc.",Jr. Data Developer,45000.0
+"Los Angeles, CA 90035",R2 Global AI,Entry Level -Technical Recruitetr,43000.0
+"Los Angeles, CA 90024",University of Southern California Keck School of M...,Neuroimaging Data Scientist,55000.0
+"Los Angeles, CA",Retina.AI,Media and Advertising Research Analyst,82500.0
+"Pasadena, CA",Intermedia Advertising,Staff NLP Machine Learning Engineer,225000.0
+"Los Angeles, CA",Factual,Post-docs,52850.0
+"Los Angeles, CA",LegalTech,Post-docs,52850.0
+"Los Angeles, CA",Roku,Analytical Chemist,60000.0
+"Los Angeles, CA",Twine,"Senior Manager, Reporting & Data Analysis",82500.0
+"Los Angeles, CA",Larry Walker Associates,Sales Operations Manager,70000.0
+"Los Angeles, CA",Qlarant,Associate Account Manager,47500.0
+"Los Angeles, CA",Lyons Hathaway,"Senior Manager, Reporting & Data Analysis",82500.0
+"Santa Monica, CA",DxTerity,Jr. Art Director,30000.0
+"Los Angeles, CA",Fisker Inc,Sales Operations Manager,70000.0
+"Los Angeles, CA",Roku,Business Development Manager,80000.0
+"Los Angeles, CA",Fisker Inc,Business Development Executive,57500.0
+"Los Angeles, CA",Oben,Associate Account Manager,47500.0
+"Pasadena, CA",Topson Downs | Apparel Design and Manufacturing,AWS/DevOps Engineer,85000.0
+"Los Angeles, CA",NantKwest,Quality Control Manager,122500.0
+"Long Beach, CA 90805",Trina Turk,Laboratory Quality Assurance Manager,90000.0
+"Los Angeles, CA",SimuLogix,Senior Frontend Angular/PWA/ASP.NET developer,122500.0
+"Los Angeles, CA",Conversion Logic,Senior Frontend Angular/PWA/ASP.NET developer,122500.0
+"Pasadena, CA",Gilead Sciences,AWS/DevOps Engineer,85000.0
+"Pasadena, CA",Bodycote,AWS/DevOps Engineer,85000.0
+"Pasadena, CA",Twine,AWS/DevOps Engineer,85000.0
+"New York, NY",IBM,"Assistant Data Analyst (Data Analytics, Research and Innovat...",41092.0
+"Manhattan, NY",Guidepoint Global,Analyst | Data Analysis,50890.0
+"New York, NY",Weill Cornell Medicine,"Assistant Data Analyst (Data Analytics, Research and Innovat...",41092.0
+"Manhattan, NY",NYU Langone,Bike Share Data Analyst,65570.0
+"Manhattan, NY",Spotify,Policy Data Analyst,78803.0
+"New York, NY",The New York Times,Researcher,62272.0
+"Queens, NY",General Electric,"Data Manager, Viral Hepatitis, Bureau of Communicable Diseas...",62693.0
+"Manhattan, NY",Goldman Sachs,"Research Scientist, Bureau of Environmental Disease and Inju...",80300.0
+"LaFayette, NY",Facebook,Research Scientist - Biochemistry,48750.0
+"Manhattan, NY",Goldman Sachs,DATA RESEARCH SPECIALIST,82653.0
+"Manhattan, NY",Showtime,Bike Share Data Analyst,65570.0
+"New York, NY",Weber Shandwick,Sr. Data Scientist,140000.0
+"New York, NY",Corning,"Assistant Data Analyst (Data Analytics, Research and Innovat...",41092.0
+"Manhattan, NY",Seaport Global Holdings LLC,Senior Advisor for Intergovernmental Affairs,82321.5
+"Manhattan, NY",Finra,DATA RESEARCH SPECIALIST,82653.0
+"New York, NY 10019 (Midtown area)",AMC Networks Inc.,Andrew W. Mellon Fellowship in Photography Conservation,49000.0
+"Manhattan, NY",NYU Langone,POLICY and OPERSTIONS RESEARCH | ANALYST,61797.5
+"Manhattan, NY",Weill Cornell Medicine,POLICY and OPERSTIONS RESEARCH | ANALYST,61797.5
+"Queens, NY",Viacom,Cardiovascular Research Analyst,91931.0
+"Manhattan, NY",Corning,Senior Data Analyst,73873.5
+"Brooklyn, NY 11206 (Williamsburg area)",NYU Langone,Machine Learning for Good Postdoctoral Associate,72000.0
+"Queens, NY",Rensselaer Polytechnic Institute,Cardiovascular Research Analyst,91931.0
+"LaFayette, NY",Rensselaer Polytechnic Institute,Research Scientist - Biochemistry,48750.0
+"Queens, NY",Ipsos North America,Data Integrity Analyst/ Bureau of Mental Health,68810.5
+"Queens, NY",Ipsos North America,GIS Analyst,62693.0
+"Bronx, NY 10455 (South Bronx area)",Corning,Program Analytics / Data Analysis Manager,57500.0
+"New York, NY 10010 (Gramercy area)",S&P Global Ratings,"Software Engineer, Data Science",157500.0
+"New York, NY 10017 (Midtown area)",Syracuse University,Medical Lab Assistant - PT Weekend Nights,35000.0
+"Bronx, NY 10455 (South Bronx area)",Bridgewater Associates,Program Analytics / Data Analysis Manager,57500.0
+"Queens, NY",Via,"Research Analyst, Bureau of Epidemiology Services",82653.0
+"Queens, NY",Memorial Sloan Kettering,Population Health Scientist,85215.0
+"Queens, NY",Interactive One,"Data Communications Outreach Analyst, Bureau of Epidemiology...",91931.0
+"New York, NY",Cold Spring Harbor Laboratory,Technical Research Analyst,48000.0
+"Queens, NY",Morgan Stanley,"Data Analyst, Bureau of Primary Care Access and Planning",82174.5
+"Manhattan, NY",Liquidnet,Supervising Analyst,94889.0
+"New York, NY",Grant Thornton,Financial Analyst,72500.0
+"New York, NY",Spotify,Data Scientist and Quantitative Dev Lead,177000.0
+"Manhattan, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,"Director, Community Based Strategies",88087.5
+"Manhattan, NY",Corning,"Senior Data Abstractor, Bureau of Environmental Disease and...",80300.0
+"Fort Drum, NY",Microsoft,PHYSICAL SCIENTIST (Direct Hire),84381.5
+"Albany, NY",Munich Re America,Research Scientist II,69258.0
+"Queens, NY",UNICEF,"Field Research Associate, Bureau of Alcohol and Drug Use Pre...",62693.0
+"Manhattan, NY",7Park Data,Child Welfare Analyst,77035.0
+"New York, NY",Corning,data science instructor,115000.0
+"Manhattan, NY",Brookhaven National Laboratory,"Environmental Epidemiologist, Bureau of Environmental Survei...",92304.0
+"Manhattan, NY",JP Morgan Chase,Child Welfare Analyst,77035.0
+"Queens, NY",Bridgewater Associates,"Special Assistant, Office of the Commissioner",78803.0
+"Manhattan, NY",Palantir Technologies,Senior Analyst,77035.0
+"Queens, NY",Axoni,"Surveillance Analyst, Bureau of Communicable Diseases",65385.5
+"Queens, NY","Two Sigma Investments, LLC.",Data Integrity Analyst/ Bureau of Mental Health,68810.5
+"New York, NY",Corning,Project Director,78803.0
+"New York, NY","Two Sigma Investments, LLC.",Research Associate,87000.0
+"Manhattan, NY",Viacom,Senior Advisor for Intergovernmental Affairs,82321.5
+"Manhattan, NY",Honeywell,Energy Policy Advisor,68636.0
+"Queens, NY",Corning,"Child Health Survey Manager, Bureau of Epidemiology Services",91931.0
+"Manhattan, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,"Policy Advisor, Building Energy Efficiency Programs",64854.0
+"Queens, NY",MUFG,"Director of Data Analysis, Bureau of Early Intervention",92304.0
+"Manhattan, NY",Albert Einstein College of Medicine,"Policy Advisor, Building & Energy Efficiency",64854.0
+"Queens, NY",Aetna,Energy Program Analyst,65977.0
+"Queens, NY",Mindshare,Director of Data Analytics,110966.0
+"Queens, NY",JP Morgan Chase,"Data and Technology Analyst, Bureau of Emergency Field Opera...",79152.5
+"Queens, NY",New York Life Insurance Co,"Director of Data Analysis, Bureau of Early Intervention",92304.0
+"Rome, NY",Credit Suisse,Senior Scientist of Processing and Exploitation,154574.0
+"Manhattan, NY",Butterfly Network,"Environmental Epidemiologist, Bureau of Environmental Survei...",92304.0
+"New York, NY",New York City DEPT OF HEALTH/MENTAL HYGIENE,Senior Research Analyst – Access and Success,75000.0
+"New York, NY",Publicis Healthcare Communications Group,Postdoctoral Research Scientist in Translational Bioinformat,48000.0
+"Queens, NY",Albert Einstein College of Medicine,"Influenza Surveillance Coordinator, Bureau of Communicable D...",98388.0
+"Queens, NY",Bausch Health,"Surveillance Analyst, Bureau of Communicable Diseases",65385.5
+"Manhattan, NY",University of Rochester,"Policy Advisor, Building Energy Efficiency Programs",64854.0
+"Queens, NY",EXL,"Research Analyst, Bureau of Epidemiology Services",82653.0
+"Manhattan, NY",Wachsman,"Deputy Chief, Shoreline Survey Unit",74406.5
+"Queens, NY",ThoughtWorks,"Surveillance Analyst, Family and Child Health Administration",79249.5
+"Manhattan, NY",ProEd Communications,"Environmental Analyst, Bureau of Environmental Surveillance...",65385.5
+"New York, NY",Butterfly Network,Research Associate,87000.0
+"New York, NY",Zbest Payment Solutions,Senior Research Analyst – Access and Success,75000.0
+"Manhattan, NY",JUUL Labs,"Chief of Mycobacteriology, Bureau of the Public Health Labor...",110511.5
+"Queens, NY",Roche,"Director of Data Analysis, Bureau of Early Intervention",92304.0
+"Wilmington, DE",Temple University,Data Scientist - Risk Manager - BFS,100500.0
+"West Point, PA",Johnson & Johnson Family of Companies,Data Quality Review Scientist,76500.0
+"Voorhees, NJ 08043",University of Pennsylvania,Business Development Specialist (Market Research Analyst),60000.0
+"Radnor, PA",Navmar Applied Sciences Corporation,Actuarial Informatics Analyst III DVACO,114500.0
+"Newtown, PA","Magritek, Inc.",Research Scientist,105000.0
+"Philadelphia, PA",The Virtual Forge,Legal Research Analyst,50000.0
+"Philadelphia, PA",Zacks Investment Management,Legal Research Analyst,50000.0
+"Wilmington, DE","Magritek, Inc.",Research Associate,60000.0
+"Malvern, PA 19355",Adaptimmune,Biological Research Technician,47500.0
+"Wilmington, DE","ARCCA, Inc.",Research Associate,60000.0
+"Philadelphia, PA",SpanPros LLC,Software Engineering Manager,75000.0
+"Wayne, PA 19087",Sidecar,Senior SEO Manager,70000.0
+"Wayne, PA 19087",Proscia,Senior SEO Manager,70000.0
+"Wayne, PA 19087",PRA Health Sciences,Senior SEO Manager,70000.0
+"Philadelphia, PA 19107 (City Center East area)",Achillion,Automated Test Engineer,107000.0
+"Philadelphia, PA 19104 (Belmont area)",PRA Health Sciences,Lab-Sarma - Post-Doctoral Fellow,47000.0
+"Media, PA",Adaptimmune,Full Stack JavaScript Developer,115500.0
