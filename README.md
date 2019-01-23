@@ -306,9 +306,9 @@
 
 [10-2a]: ./week10/day2_big_data_intro/intro_to_big_data-lesson
 [10-2c]: ./week10/day2_big_data_intro/intro_to_spark
-[10-3b]: ./week10/day2_big_data_intro/spark_lab
+[10-3b]: ./week10/day3_networks/networks_lab
 
-[10-4a]: ./week10/day4_aws_and_hadoop/AWS_intro/
+[10-4a]: ./week10/day4_neural_networks/neural_network_lab1
 [10-4d]: ./week10/day4_aws_and_hadoop/hadoop-big-data-lab/
 
 [10-5a]: ./week10/day5_emr_and_hive/Hive-lab
@@ -382,7 +382,7 @@
 | 06/01 9:00    |  [PCA Intro - Lab][7-1c]<br/>[Intro to Kmeans - Lab][7-2b]<br/>[Battle of clusterers - Lab][7-4d]  | Project 3      |  |
 | 13/01 9:00    |  [Naive Bayes - SPAM Lab][8-1d]<br/>[NLP - sentiment analysis - lab][8-4b]  |    | [Twitter api - case study][8-4d] |
 | 20/01 9:00    | [Time Series datetime Lesson/Lab][9-1b] <br/> [ARIMA - Lab](https://git.generalassemb.ly/DSI-Misk-II/DSI/blob/master/week09/day2_arima_models/4_timeseries_arima_lab/ARIMA-lab-startercode.ipynb) <br/> [Seasonal Arima - Lab][9-3d]|Project 4    |  |
-| 27/01 9:00    | networks_lab <br/> neural_network_lab <br/> SVM-lab  |  | |
+| 27/01 9:00    | [networks_lab][10-3b] <br/> SVM-lab  |  | |
 
 ## Communication
   - You have been invited to the following Slack teams:
