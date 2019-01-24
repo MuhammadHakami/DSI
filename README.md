@@ -113,7 +113,7 @@
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
 | 09:50 - 11:20 |Lightning Talks II|Lightning Talks II |Lightning Talks II|Surprise|Lightning Talks II|
 | 11:20 - 12:30 |Lightning Talks II|Lightning Talks II|Lightning Talks II |Surprise|Lightning Talks II|
-| 13:30 - 15:00 |Keras and TensorFlow |[Intro to Big Data - Lesson][10-2a] |[Flask on AWS - Lab][11-3a]  |Surprise|Capstone|
+| 13:30 - 15:00 |Keras and TensorFlow |[Intro to Big Data - Lesson][10-2a] |[Flask on AWS - Lab][11-3a]  |Surprise| Real World Examples |
 | 15:15 - 17:00 | [Flask - Lesson][11-2c]|[AWS Intro][10-4a]|Surprise |Surprise | Capstone |
 
 ## Week 12: Capstone Week
