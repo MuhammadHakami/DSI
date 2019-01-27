@@ -51,8 +51,7 @@ class TextClassifier(object):
         -------
         self: The fit model object.
         """
-        X = self._vectorizer.fit_transform(X)
-        self._classifier.fit(X, y)
+
 
     def predict_proba(self, X):
         """Make probability predictions on new data.
@@ -65,8 +64,7 @@ class TextClassifier(object):
         -------
         probs: A (n_obs, n_classes) numpy array of predicted class probabilities.
         """
-        X = self._vectorizer.transform(X)
-        return self._classifier.predict_proba(X)
+
 
     def predict(self, X):
         """Make class predictions on new data.
@@ -91,8 +89,7 @@ class TextClassifier(object):
         X: A numpy array or list of text fragments.
         y: A numpy array or python list of true class labels.
         """
-        X = self._vectorizer.transform(X)
-        return self._classifier.score(X, y)
+    
 
 
 def get_data(filename):
@@ -107,9 +104,7 @@ def get_data(filename):
     X: A numpy array containing the text fragments used for training.
     y: A numpy array containing labels, used for model response.
     """
-    df = pd.read_csv(filename)
-    X, y = df.body, df.section_name
-    return X, y
+
 
 
 if __name__ == '__main__':
